@@ -46,7 +46,7 @@ Multiple locations - Boston, Providence, etc (Onsite and Remote) · Apr 2020 - A
 - **Amotions** (emotionally intelligent AI coach for sales teams): led UX for the AI Professional Coach. Designed onboarding for user activation, shipped roleplay, voice interaction, and document-upload features for multimodal learning, and built a feedback pipeline so developers could improve the AI's responses. *(Founder review: "someone who has strong product sense.")*
 - **Clicksound**: ran focus-group studies that led to a community feature that facilitated support between patients in similar situations.
 - **Dassault Systèmes** (3DEXPERIENCE platform): ran usability studies to WCAG 2.1 standards and interviewed 30+ Solidworks users to find the biggest pain points.
-- **Pikrex** and **Pintween**: built conversion-focused landing pages and Facebook ad creatives.
+- **Pikrex** and **Pintween**: designed conversion-focused landing pages and Facebook ad creatives.
 
 **Vandalsoft** | Industrial Designer (IoT)
 Seoul · May 2020 - Jun 2021
