@@ -7,7 +7,7 @@ LinkedIn /in/edd1epark · YouTube @B2BAdsPro · X @edd1epark · groxweb.com
 *Swappable intro line (rewrite per company):*
 **Looking to join a team I can really grind with over the next few years: quickly experiment across marketing channels, use data to double down on what works, and build scalable customer-acquisition systems.**
 
-> Master version. Holds every role and bullet. Real submissions get cut to 1-2 pages and re-angled per job (see Positioning & Blocks). Software is **bolded**. No summary or skills block on purpose: the wins should be clear from a 10-second scan.
+> Master version. Holds every role and bullet. Real submissions get cut and re-angled per job (see Positioning & Blocks). Software is **bolded**. No summary or skills block on purpose: the wins should be clear from a 10-second scan.
 
 ---
 
@@ -30,7 +30,7 @@ Philadelphia, PA · Hybrid · Aug 2024 - Present
 - Although the CRO business was winning clients and delivering strong results, I chose to pivot for more recurring revenue: about 50% of clients lacked the inbound demos and signups for statistically significant A/B tests (which turned projects into web design, not retainers), and the ~40% with the volume usually captured the big win in a single 3-month sprint.
 - To build that recurring revenue, I pivoted Gro.X into Google Ads, leveraging my strong CRO background and targeting traditional B2B firms (M&A, commercial law, accounting).
 - It was the wrong bet: I left the B2B SaaS ICP and audience I had built, and couldn't meaningfully stand out among Google Ads agencies with 10+ years of track record in a mature market. In hindsight, I should have kept the CRO service that was already winning clients and layered natural upsells (SEO, chatbot builds) onto each sprint for the recurring revenue I wanted.
-- I debated restarting the CRO business, but made the harder call: pause it and take an in-house growth role at a startup, back in B2B SaaS where my strengths and audience already are, to build deeper track record and skills for the long run.
+- I debated pivoting back to CRO, but made the harder call: pause it and take an in-house growth role at a startup, back in B2B SaaS where my strengths and audience already are, to build deeper track record and skills for the long run.
 
 **Thirdi AI** | Growth Marketing Lead
 New York · Remote · Oct 2023 - Sep 2024
@@ -40,11 +40,11 @@ New York · Remote · Oct 2023 - Sep 2024
 - Company later disbanded after a cofounder split, which led me to start Gro.X.
 
 **Freelance CRO / UX Consultant** | Various Clients
-Remote · Apr 2020 - Aug 2024
+Multiple locations - Boston, Providence, etc (Onsite and Remote) · Apr 2020 - Aug 2024
 *Conversion and product-design work for early-stage software teams.*
 
 - **Amotions** (emotionally intelligent AI coach for sales teams): led UX for the AI Professional Coach. Designed onboarding for user activation, shipped roleplay, voice interaction, and document-upload features for multimodal learning, and built a feedback pipeline so developers could improve the AI's responses. *(Founder review: "someone who has strong product sense.")*
-- **Clicksound**: ran focus-group studies that led to a new community feature, which raised user retention by 25%.
+- **Clicksound**: ran focus-group studies that led to a community feature that facilitated support between patients in similar situations.
 - **Dassault Systèmes** (3DEXPERIENCE platform): ran usability studies to WCAG 2.1 standards and interviewed 30+ Solidworks users to find the biggest pain points.
 - **Pikrex** and **Pintween**: built conversion-focused landing pages and Facebook ad creatives.
 
@@ -86,7 +86,7 @@ Gangwon, South Korea · Jul 2017 - Apr 2019
 
 ## SWAP-IN LINES *(use only when the role calls for it)*
 
-- **Title:** for design or product-heavy roles, retitle the freelance block "UX Designer" instead of "CRO / UX Consultant."
+- **Title:** for design or product-heavy roles, retitle the freelance block "UX Designer."
 - **Design-heavy roles:** break the bundled awards out individually (GD USA, Vega, Davey) and feature them; otherwise keep them de-emphasized.
 - **Investment / fintech roles:** Grew a personal stock portfolio from $29K to $116K in 5 years (about 4x). A short "interesting fact" line.
 - **When work authorization comes up:** "Authorized to work in the U.S. on an O-1 'extraordinary ability' visa, which transfers to a new employer without the H-1B lottery."
