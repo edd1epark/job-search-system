@@ -32,7 +32,7 @@ The reasons themselves change per role - that is the point. Pick them by mirrori
 
 ## Voice guardrails
 - Quiet confidence, kind competence; practitioner, not broadcaster. Specificity is the pull.
-- No YouTube-isms, no hype, no urgency, minimal exclamation.
+- No guru-vibe, no hype, no urgency, minimal exclamation.
 - Plain hyphens, never em-dashes.
 - Honest: tell the pivot/growth story straight when relevant; never lead with the runway detail.
 - ~250-400 words, plain text.
