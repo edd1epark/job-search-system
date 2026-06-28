@@ -25,7 +25,7 @@ Philadelphia, PA · Hybrid · Aug 2024 - Present
 - Optimized the **Google Ads** funnel for RevPilots and improved ROAS by 45.47%.
 - Published long-form **YouTube** content and repurposed it to short-form platforms like **Instagram**, using **Opus Clip** for automated clipping, **Manus** + **OpenAI Image 2** for thumbnails, and the **Zernio** API for scheduling.
 - Created cold email and **LinkedIn** outreach campaigns that booked 21 meetings in a peak month. Even outside a sales role, that experience helps with coordinating with sales teams, defining SQLs, and sales enablement.
-- Set up **Webflow** CMS for programmatic-SEO mass article uploads alongside the client's SEO team. Also worked extensively with **WordPress** and **HubSpot** CMS.
+- Increased booked calls by **105.9%** for Pearl Talent by setting up **Webflow** CMS for programmatic SEO mass article uploads and running continuous A/B tests. Also worked extensively with **WordPress** and **HubSpot** CMS.
 
 - Although the CRO business was winning clients and delivering strong results, I chose to pivot for more recurring revenue: about 50% of clients lacked the inbound demos and signups for statistically significant A/B tests (which turned projects into web design, not retainers), and the ~40% with the volume usually captured the big win in a single 3-month sprint.
 - To build that recurring revenue, I pivoted Gro.X into Google Ads, leveraging my strong CRO background and targeting traditional B2B firms (M&A, commercial law, accounting).
