@@ -8,7 +8,7 @@
 
 ## The idea
 
-Write the cover letter like a piece of content, not a form letter. It is a short chain of **hook -> retain -> reward** units bound by **open loops**, in Eddie's **quiet-confidence** voice. The pull comes from **specificity** - a real number, a real observation - never hype. It must **not** sound like a YouTube video: no "here's the crazy part," no manufactured urgency, no exclamation-stacking. Practitioner sharing findings, not a broadcaster.
+Write the cover letter like a piece of content that the reader would actually enjoy, not a form letter. It is a short chain of **hook -> retain -> reward** units bound by **open loops**, in Eddie's **quiet-confidence** voice. The pull comes from **specificity** - a real number, a real observation - never hype. It must **not** sound like a YouTube video: no "here's the crazy part," no manufactured urgency, no exclamation-stacking. Practitioner sharing findings, not a broadcaster.
 
 ## Structure: fit-reasons (the default and primary structure)
 
