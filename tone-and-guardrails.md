@@ -10,7 +10,6 @@ Every resume bullet, intro line, and outreach message must follow these.
 ## Formatting
 - Bold key accomplishments, metrics, and decisions/insights, NOT tool names. Bolding every tool makes bullets hard to scan. Examples to bold: "$103K in revenue", "sourced 40% of deals", "improved ROAS by 45.47%", "the harder call: go in-house". Tools are listed (unbolded) in a Tools section instead.
 - Never use em-dashes or en-dashes. Use a plain hyphen, a colon, or restructure the sentence.
-- No standalone Summary or Skills section. The value should be clear from a 10-second scan of the experience.
 - Each resume opens with a one-line intro personalized to the company.
 
 ## Avoid (AI-tells and weak moves)
