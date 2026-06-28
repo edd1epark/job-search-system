@@ -86,6 +86,14 @@ Worked example (Openmart Growth Lead):
 > I read the post and it felt like a strong fit - you want someone who builds in public, runs fast experiments, and is AI-native. Also noticed your Pinterest growth + A/B-testing background - feels like we'd speak the same language.
 > Would love to hear where you're taking Openmart. Looking forward to your thoughts.
 
+Worked example (Hindsight GTM Lead) - final, Eddie-approved; write to this bar:
+> Hey Ani,
+> Just read your Win-Loss Playbook - the part about how the hard part isn't surfacing the insight, but acting on it, is exactly the problem I lived in CRO. The insight is the easy part; turning it into a repeatable experimentation program is the real work.
+> I saw you're hiring a GTM Lead and wanted to introduce myself. I ran a B2B SaaS growth agency ($103K, 15 clients) owning content, email, and sales end to end - my content sourced 40% of deals and built a 4,800-person audience of SaaS founders and marketing leaders, close to who Hindsight sells to. Running both sides taught me how much winning hinges on sales enablement, and on marketing and sales working in tandem.
+> Shaping a new category for recovering lost deals is the type of challenge I'd love to help take on. Would love to hear more about where you're taking Hindsight.
+
+Why it works: opens on a specific signal from their own content (the Win-Loss Playbook) tied to a genuine shared insight from CRO; names the role; one tight proof block that ties the 4,800 audience to their ICP ("close to who Hindsight sells to"); links sales and marketing to their product (recovering lost deals); soft, mutual close. No hype, no "quick chat," every line earns its place.
+
 ---
 
 ## 6. Honesty and objection handling
