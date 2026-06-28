@@ -29,6 +29,8 @@ anything is sent - and before any change to the resume's bullet wording or summa
 4. **[Conditional] A bespoke outreach strategy.** If the signals - including anything in the job
    post - present a standout opening or warrant a more personalized approach than a single
    message, you are **required** to propose it (see Step 4d).
+5. **[On request only] A cover letter** (plain text), written as a piece of content (see Step 4e).
+   Not generated unless Eddie asks for one.
 
 All outputs are written back to the Airtable row. Nothing is sent; Eddie reviews and sends.
 
@@ -190,11 +192,32 @@ speaks to it directly (and angle the resume to match). Spell out the angle, why 
 signal, and the concrete move (e.g., a short Loom teardown, a mini-campaign idea, a reference to
 the cited person's playbook). Only raise this when there's a real opening - don't manufacture one.
 
+### 4e. [On request only] Cover letter
+
+Generate a cover letter **only when Eddie explicitly asks for one** (some roles require or invite it;
+most do not). It is never part of the default package.
+
+- Read the cover-letter guide first:
+  https://raw.githubusercontent.com/edd1epark/job-search-system/main/cover-letter-guide.md
+- Write it like a piece of content, not a form letter: a hook -> retain -> reward chain bound by open
+  loops, in Eddie's quiet-confidence voice (specificity is the pull; no YouTube hype, no urgency,
+  plain hyphens).
+- **Default structure is fit-reasons:** open with the sharpest real signal/insight about the company
+  (reuse the Step 3 signal) and open the loop ("a fit for [N] reasons"); each reason mirrors a key
+  requirement from the job post in their words and closes on a concrete proof/number from the master
+  resume; overlap the seams; end on a soft, mutual CTA ("we should talk and learn more about each
+  other"), never "please consider my application." The reasons change per role.
+- **Output as plain text**, ~250-400 words, ready to paste into the application field. No letterhead
+  file unless asked.
+- Everything traces to the master resume and the chosen signal; never invent. Surface it for Eddie
+  to review; nothing is sent.
+
 ## Step 5 - Write back & hand off (no sending)
 
 - Update the Airtable row: Status → "Drafted"; store the outreach message, the chosen signal,
   the decision-maker, and any strategy note in the existing fields.
 - Save the resume files to the outputs folder and present them.
+- If a cover letter was requested, include it in the review (and store it in the row if a field exists).
 - Surface the contact, the message, and (if any) the strategy for Eddie to review. **Eddie sends -
   the skill never sends, never submits a form, never emails on his behalf.**
 
