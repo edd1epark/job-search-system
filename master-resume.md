@@ -84,6 +84,12 @@ Gangwon, South Korea · Jul 2017 - Apr 2019
 
 ---
 
+## TOOLS
+
+Clay, Apify, Manus, Smartlead, lemlist, Convert.com, GA4, Hotjar, Google Ads, Webflow, Framer, WordPress, HubSpot, Opus Clip, Zernio, OpenAI, Claude, Figma, Airtable, GitHub
+
+---
+
 ## SWAP-IN LINES *(use only when the role calls for it)*
 
 - **Title:** for design or product-heavy roles, retitle the freelance block "UX Designer" instead of "CRO / UX Consultant."
