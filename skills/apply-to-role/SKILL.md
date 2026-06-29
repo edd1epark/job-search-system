@@ -146,7 +146,8 @@ genuinely looking into the company. Hold every draft to these guidelines:
 - **A sharp market/category insight is one of the strongest openers** - e.g., naming a real gap the company is positioned to win ("a gap in local-SMB data vs Apollo/ZoomInfo"). It proves he speaks B2B SaaS fluently. Use only when genuinely true.
 - **Reflect the job post back** - a line like "I read the post and it felt like a strong fit: you want someone who builds in public, runs fast experiments, and is AI-native" shows he actually read it and mirrors their language.
 - **Make it clear he's a candidate interested in the role**, not a vendor. Naming the role early
-  does this (his LinkedIn still says "Founder, Gro.X," so the default read is sales - defuse it).
+  does this (his LinkedIn still says "Founder, Gro.X"). For example: "I noticed you were looking
+  for a {role}, and wanted to introduce myself."
 - **Low pressure.** No sales CTA. Never "worth a quick chat?" or anything that sounds like
   booking a demo.
 - **Scannable for a busy founder** - short, a few lines, not a wall of text.
